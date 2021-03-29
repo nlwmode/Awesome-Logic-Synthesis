@@ -33,19 +33,27 @@ A collection of the Logic Synthesis about peoples/papers/projects...
 ---
 ### <span id="cc">Conferences and contests</span>
 
-- [IWLS]()
-- [DAC]()
-- [ICCAD]()
-- [FPGA]()
-- [DATE]()
+- [IWLS, International Workshop on Logic & Synthesis](https://www.iwls.org/)
+- [DAC, Desgin Automation Conference](https://dblp.uni-trier.de/db/conf/dac/)
+- [ASP-DAC, Asia and South Pacific Design Automation Conference](http://dblp.uni-trier.de/db/conf/aspdac)
+- [ICCAD, International Conference on Computer-Aided Design](http://dblp.uni-trier.de/db/conf/iccad/)
+- [FPGA, ACM/SIGDA International Symposium on FPGA](http://dblp.uni-trier.de/db/conf/fpga/)
+- [DATE, Desgin-Automation & Test in Europe](http://dblp.uni-trier.de/db/conf/date/)
+- [CASES, Internationam Conference on Compilers Architectures and Synthesis for Embedded Synstems](http://dblp.uni-trier.de/db/conf/cases/index.html)
+- [ISCAS, International Symposium on Circuits and Systems](http://dblp.uni-trier.de/db/conf/iscas/)
 
 ---
 ### <span id="paper">Papers</span>
 
 - Topic on Logic Represent
-  - lalal 
+  - [BDD]()
+  - [SOP]()
+  - [ESOP]()
+  - [AIG]()
+  - [MIG]()
 - Topic on FPGA
-  - lalal
+  - [FPGA Technology Mapping: A Study of Optimality ,UToronto ,DAC 2005](https://www.eecg.utoronto.ca/~brown/papers/dac05-ling.pdf)
+  - [An Integrated Technology Mapping Environment ,UC-Berkeley+UMass ,IWLS 2005](https://people.eecs.berkeley.edu/~brayton/publications/2005/iwls05_env.pdf)
 - Topic on ASIC
   - lalal
 
